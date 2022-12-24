@@ -28,12 +28,12 @@ Trace:
 
 npm manifest: 
   {
-    "name": "@Burbigo/test-github-package",
+    "name": "@burbigo/test-github-package",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "publishConfig": {
-      "@Burbigo:registry": "https://npm.pkg.github.com"
+      "@burbigo:registry": "https://npm.pkg.github.com"
     },
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
